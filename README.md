@@ -1,2 +1,2 @@
 # xlzd
-Files associated with XLZD
+Files associated with XLZD -mainly Python simulations
