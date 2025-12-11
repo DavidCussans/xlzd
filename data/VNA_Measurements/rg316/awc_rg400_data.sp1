@@ -1,0 +1,8 @@
+! AWC RG400 https://www.awcwire.com/rg-catalog/rg400-coax-cable
+# MHz S DB R 50
+100 	-13.45 0.0
+400 	-28.2 0.0
+1000 	-46.6 0.0
+2400 	-77.4 0.0
+5000 	-121.4 0.0
+10000 	-189.6 0.0
